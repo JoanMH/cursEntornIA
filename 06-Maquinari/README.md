@@ -3,6 +3,7 @@
 ## Objectius
 - Aprofitar equips antics amb Linux.
 - Optimitzar l'ús de recursos.
+- Ampliacio de memoria
 
 ## Continguts
 1.  Segona vida per a equips antics.
