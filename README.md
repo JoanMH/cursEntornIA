@@ -1,4 +1,4 @@
-# Mestratge Digital: Construint l'Entorn de Treball Definitiu amb IA
+# Mestratge Digital: Construint l'Entorn de Treball Definitiu.
 
 Benvinguts al curs que transformarà la vostra manera de treballar.
 
