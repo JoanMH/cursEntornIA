@@ -1,6 +1,21 @@
 # Mestratge Digital: Construint l'Entorn de Treball Definitiu amb IA
 
-Benvinguts al curs que transformarà la vostra manera de treballar. Aquest no és un curs d'informàtica convencional; és una guia per construir un "Ecosistema Digital Augmentat" on Linux i la Intel·ligència Artificial treballen junts per multiplicar la vostra productivitat.
+Benvinguts al curs que transformarà la vostra manera de treballar.
+
+> **No és només un curs d'informàtica. És el "reset" que la teva vida digital necessita.**
+>
+> Et sents limitat pel teu ordinador? Passes més temps lluitant contra les finestres que creant contingut?
+>
+> **Mestratge Digital** no t'ensenya a fer servir Linux; t'ensenya a **construir el teu propi Ecosistema de Treball Augmentat**.
+>
+> En aquest curs intensiu de 30 hores, fusionarem la potència inigualable de **Linux** amb la màgia de la **Intel·ligència Artificial** per crear un entorn on:
+> *   **El teclat és la teva vareta màgica:** Oblida el ratolí per a tasques repetitives.
+> *   **La IA és la teva copilot:** Integra assistents intel·ligents directament en el teu flux de treball, no en una pestanya del navegador.
+> *   **La teva feina és ubiqua:** Comença a l'escola, continua a casa, sense fricció.
+> *   **Els teus alumnes, sempre al dia:** Actualitza continguts a l'instant i distribueix-los sense esforç amb Git i GitHub.
+> *   **Ets l'amo de les teves dades:** Privacitat, seguretat i control total.
+>
+> Aquest curs és per a docents que volen deixar de ser usuaris passius i convertir-se en **Arquitectes Digitals**.
 
 ## Índex de Continguts
 
